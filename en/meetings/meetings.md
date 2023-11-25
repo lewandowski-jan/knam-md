@@ -8,7 +8,7 @@ We continued building the weather app for the weather app challenge, this time f
 
 <<BREAK>>
 
-# Building simple weather app (14.11.2023)
+# Building simple weather app (07.11.2023)
 
 We started building the weather app for the weather app challenge, laying out the basic file structure and explaining core concepts of clean architecture.
 

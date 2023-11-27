@@ -6,7 +6,7 @@ Jesteśmy grupą entuzjastów aplikacji mobilnych, zjednoczonych wspólną pasj�
 
 Koło skupia się na:
 
-- **Tworzeniu Społeczności:** Chcemy być miejscem, gdzie studenci zainteresowani tworzeniem aplikacji mobilnych mogą się spotykać, wymieniać pomysłami i zdobywać wiedzę.
+- **Tworzeniu Społeczności:** Chcemy stworzyć miejsce, gdzie studenci zainteresowani tworzeniem aplikacji mobilnych mogą się spotykać, wymieniać pomysłami i zdobywać wiedzę.
 
 - **Wsparciu w Nauce:** Jesteśmy gotowi wspierać studentów w zdobywaniu wiedzy z zakresu programowania mobilnego. Jesteśmy otwarci na wszelkie inicjatywy członków i zawsze jesteśmy otwarci na ich pomysły.
 

@@ -1,3 +1,9 @@
+# Upiększanie aplikacji pogodowej (29.11.2023)
+
+Na spotkaniu porozmawailiśmy o pracy programisty i zajęliśmy się dodawaniem animowanych widgetów do aplikacji z poprzednich zajęć.
+
+<<BREAK>>
+
 # Budowanie prostej apki pogodowej 2 (14.11.2023)
 
 Kontynowaliśmy budowanie aplikacji pogodowej w ramach wyzwania dotyczącego apki pogodowej. Tym razem skupiliśmy się na pobieraniu danych z REST API.
@@ -26,6 +32,8 @@ Nowy semestr rozpoczęliśmy od prezentacji: Janek i Oskar pokazali swoje prace 
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
+- Grzegorz Rusinek
+- Julian Uziembło
 
 <<BREAK>>
 

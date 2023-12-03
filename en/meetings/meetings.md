@@ -1,3 +1,9 @@
+# Enhancing the weather application (November 29, 2023)
+
+During the meeting we talked about the work of a programmer and added animated widgets to the application from the previous classes.
+
+<<BREAK>>
+
 # Building simple weather app 2 (November 14, 2023)
 
 We continued building the weather app for the weather app challenge, this time focusing on querying data from REST API.
@@ -26,6 +32,8 @@ The new semester began with presentations: Janek and Oskar showcased their engin
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
+- Grzegorz Rusinek
+- Julian Uziembło
 
 <<BREAK>>
 

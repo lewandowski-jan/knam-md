@@ -1,6 +1,20 @@
+# Adding BLoC to the weather application (December 13, 2023)
+
+The meeting started with promotion of the Advent of Code initiative. Then Janek showed us how to implement BLoC in the weather application.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Enhancing the weather application (November 29, 2023)
 
 During the meeting we talked about the work of a programmer and added animated widgets to the application from the previous classes.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
 
 <<BREAK>>
 

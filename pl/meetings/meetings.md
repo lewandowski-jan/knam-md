@@ -1,6 +1,20 @@
+# Dodanie BLoC do aplikacji pogodowej (13.12.2023)
+
+Spotkanie rozpoczęło się od zareklamowania inicjatywy Adwent of Code. Następnie Janek pokazał jak zaimplementować model BLoC w aplikacji pogodowej.
+
+## Prezentujący
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Upiększanie aplikacji pogodowej (29.11.2023)
 
 Na spotkaniu porozmawailiśmy o pracy programisty i zajęliśmy się dodawaniem animowanych widgetów do aplikacji z poprzednich zajęć.
+
+## Prezentujący
+- Jan Lewandowski
+- Oskar Zając
 
 <<BREAK>>
 

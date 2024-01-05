@@ -1,3 +1,12 @@
+# Indywidualne aplikacje pogodowe (03.01.2024)
+
+Konsultacje i rozwiązywanie problemów z aplikacjami pogodowymi studentów.
+
+## Prezentujący
+- Jan Lewandowski
+
+<<BREAK>>
+
 # Dodanie BLoC do aplikacji pogodowej (13.12.2023)
 
 Spotkanie rozpoczęło się od zareklamowania inicjatywy Adwent of Code. Następnie Janek pokazał jak zaimplementować model BLoC w aplikacji pogodowej.

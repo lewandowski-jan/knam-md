@@ -1,3 +1,12 @@
+# Individual weather applications (January 03, 2024)
+
+Consultations and troubleshooting with students' weather applications.
+
+## Presenters
+- Jan Lewandowski
+
+<<BREAK>>
+
 # Adding BLoC to the weather application (December 13, 2023)
 
 The meeting started with promotion of the Advent of Code initiative. Then Janek showed us how to implement BLoC in the weather application.

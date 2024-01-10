@@ -1,3 +1,13 @@
+# Prezentacje aplikacji pogodowych (10.01.2024)
+
+Przegląd prasy (Global Gamers Challenge, Serverpod 1.2) oraz prezentacje aplikacji pogodowych studentów.
+
+## Prezentujący
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Indywidualne aplikacje pogodowe (03.01.2024)
 
 Konsultacje i rozwiązywanie problemów z aplikacjami pogodowymi studentów.

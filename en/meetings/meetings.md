@@ -1,3 +1,13 @@
+# Weather app presentations (January 10, 2024)
+
+Press review (Global Gamers Challenge, Serverpod 1.2) and presentations of weather applications by students.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Individual weather applications (January 03, 2024)
 
 Consultations and troubleshooting with students' weather applications.

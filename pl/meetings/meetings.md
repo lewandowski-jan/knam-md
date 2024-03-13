@@ -1,8 +1,41 @@
+# Strefy czasowe, przegląd aplikacji studentów, rozmowy rekrutacyjne (13.03.2024)
+
+Spotkanie w niezaplanowany sposób zaczęło się o dyskusji na temat problemów związanych z różnymi strefami czasowymi przy tworzeniu oprogramowania. Następnie odbył się przegląd aplikacji mobilnych studentów a po tym porozmawialiśmy o procesie rozmów rekrutacyjnych.
+
+## Prezentujący
+
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Tworzenie CV (06.03.2024)
+
+Na spotkaniu zrobiliśmy przegląd CV ochotników i wspólnie stalaliśmy się ja poprawić. Najbardziej dyskusyny był temat zamieszczania sekcji o zainteresowaniach.
+
+## Prezentujący
+
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Nowy semestr, testy automatyczne i Patrol (28.02.2024)
+
+Nowy semestr zaczęliśmy od prezentacji Oskara na temat testów automatycznych i pokazu moliwości narzędzia Patrol.
+
+## Prezentujący
+
+- Oskar Zając
+
+<<BREAK>>
+
 # Prezentacje aplikacji pogodowych (10.01.2024)
 
 Przegląd prasy (Global Gamers Challenge, Serverpod 1.2) oraz prezentacje aplikacji pogodowych studentów.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -13,6 +46,7 @@ Przegląd prasy (Global Gamers Challenge, Serverpod 1.2) oraz prezentacje aplika
 Konsultacje i rozwiązywanie problemów z aplikacjami pogodowymi studentów.
 
 ## Prezentujący
+
 - Jan Lewandowski
 
 <<BREAK>>
@@ -22,6 +56,7 @@ Konsultacje i rozwiązywanie problemów z aplikacjami pogodowymi studentów.
 Spotkanie rozpoczęło się od zareklamowania inicjatywy Adwent of Code. Następnie Janek pokazał jak zaimplementować model BLoC w aplikacji pogodowej.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -32,6 +67,7 @@ Spotkanie rozpoczęło się od zareklamowania inicjatywy Adwent of Code. Następ
 Na spotkaniu porozmawailiśmy o pracy programisty i zajęliśmy się dodawaniem animowanych widgetów do aplikacji z poprzednich zajęć.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -42,6 +78,7 @@ Na spotkaniu porozmawailiśmy o pracy programisty i zajęliśmy się dodawaniem 
 Kontynowaliśmy budowanie aplikacji pogodowej w ramach wyzwania dotyczącego apki pogodowej. Tym razem skupiliśmy się na pobieraniu danych z REST API.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -52,6 +89,7 @@ Kontynowaliśmy budowanie aplikacji pogodowej w ramach wyzwania dotyczącego apk
 Zaczęliśmy budowę aplikacji pogodowej w ramach wyzwania dotyczącego apki pogodowej. Stworzyliśmy podstawową strukturę plików i omówiliśmy główne założenia czystej architektury.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -62,6 +100,7 @@ Zaczęliśmy budowę aplikacji pogodowej w ramach wyzwania dotyczącego apki pog
 Nowy semestr rozpoczęliśmy od prezentacji: Janek i Oskar pokazali swoje prace inżynierskie, a Grzesiek opowiedział o aplikacji dla [Forum Uczelni Technicznych](https://fut.edu.pl/), którą stworzył.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -81,6 +120,7 @@ Okazało się, że wakacje to nie tylko czas odpoczynku, ale także realizacji s
 Ostatnie zajęcia w semestrze to warsztat z BLoC - aplikacja do chatu. Po zajęciach najwytrwalsi członkowie koła wybrali się na integrację 🍻.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -91,6 +131,7 @@ Ostatnie zajęcia w semestrze to warsztat z BLoC - aplikacja do chatu. Po zajęc
 Prezentacja z najciekawszego typu zarządzania stanem: BLoC.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -101,6 +142,7 @@ Prezentacja z najciekawszego typu zarządzania stanem: BLoC.
 Warsztat z budowania aplikacji do zamawiania hamburgerów (nawigacja).
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -111,6 +153,7 @@ Warsztat z budowania aplikacji do zamawiania hamburgerów (nawigacja).
 Prezentacja Janka o nawigacji na przykładzie Hamburger 🍔 menu. Pierwsze demo aplikacji Radia Aktywnego.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -122,6 +165,7 @@ Prezentacja Janka o nawigacji na przykładzie Hamburger 🍔 menu. Pierwsze demo
 Prezentacja Oskara o pracy testera, odpowiedzialności za kod oraz co i jak testować.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Oskar Zając
 
@@ -132,6 +176,7 @@ Prezentacja Oskara o pracy testera, odpowiedzialności za kod oraz co i jak test
 Warsztat z Hooków, tworzenie dynamicznego widgetu do przechowywania tekstu.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -143,6 +188,7 @@ Warsztat z Hooków, tworzenie dynamicznego widgetu do przechowywania tekstu.
 Kontynuacja pracy nad aplikacją TODO i jej upiększenie. Wprowadzenie do zarządzania stanem: Hooks. Zadanie dodatkowe: klon Twittera.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -155,6 +201,7 @@ Pierwsze zadanie na zajęciach: aplikacja TODO.
 [GitHub Repo](https://github.com/lewandowski-jan/todos)
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -166,6 +213,7 @@ Pierwsze zadanie na zajęciach: aplikacja TODO.
 Na spotkaniu Janek zrobił prezentację o Mobile designie. Odbyło się również zaproszenie na WDI. Na koniec odbyła się pierwsza sesja live codingu: pokazanie podstawowych Widgetów we Flutterze.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -177,6 +225,7 @@ Na spotkaniu Janek zrobił prezentację o Mobile designie. Odbyło się równie�
 Przygotowanie środowiska do pracy z Flutterem u członków Koła, omówienie zadania #2.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -188,6 +237,7 @@ Przygotowanie środowiska do pracy z Flutterem u członków Koła, omówienie za
 Omówienie zadania nr 1. Warsztat z Git.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając
@@ -199,6 +249,7 @@ Omówienie zadania nr 1. Warsztat z Git.
 Spotkanie zapoznawcze: opowieść o celach Koła, przedstawienie zarządu, plan działania na semestr. Pierwsze zadanie w języku Dart.
 
 ## Prezentujący
+
 - Jan Lewandowski
 - Krzysztof Korkuć
 - Oskar Zając

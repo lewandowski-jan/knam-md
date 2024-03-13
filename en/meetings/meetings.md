@@ -1,3 +1,33 @@
+# Review of students' applications, recruitment interviews (March 13, 2024)
+
+The meeting started with a discussion about problems related to different time zones when creating software. Then we had a review of students' mobile applications, followed by a discussion about the process of recruitment interviews.
+
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+## CV creation (March 06, 2024)
+  
+We reviewed the CVs of volunteers and worked together to improve them. The most discussed topic was the inclusion of the interests section.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# New semester, automated tests and Patrol (February 28, 2024)
+
+We started the new semester with Oskar's presentation on automated tests and a demonstration of the capabilities of the Patrol tool.
+
+## Presenters
+- Oskar Zając
+
+<<BREAK>>
+
 # Weather app presentations (January 10, 2024)
 
 Press review (Global Gamers Challenge, Serverpod 1.2) and presentations of weather applications by students.

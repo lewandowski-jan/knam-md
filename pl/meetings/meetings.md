@@ -1,3 +1,14 @@
+# Testy jednostkowe (20.03.2024)
+
+Na spotkaniu przejrzeliśmy poprawione wersje CV a nastepnie Janek pokazał jak pisać we Flutterze testy jednostkowe na przykładzie aplikacji pogodowej i paczki flutter test.
+
+## Prezentujący
+
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Strefy czasowe, przegląd aplikacji studentów, rozmowy rekrutacyjne (13.03.2024)
 
 Spotkanie w niezaplanowany sposób zaczęło się o dyskusji na temat problemów związanych z różnymi strefami czasowymi przy tworzeniu oprogramowania. Następnie odbył się przegląd aplikacji mobilnych studentów a po tym porozmawialiśmy o procesie rozmów rekrutacyjnych.

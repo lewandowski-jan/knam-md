@@ -1,3 +1,13 @@
+# Unit Testing (March 20, 2024)
+
+During the meeting, we reviewed the improved versions of CVs, and then Janek showed how to write unit tests in Flutter using the example of a weather application and the flutter test package.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Review of students' applications, recruitment interviews (March 13, 2024)
 
 The meeting started with a discussion about problems related to different time zones when creating software. Then we had a review of students' mobile applications, followed by a discussion about the process of recruitment interviews.

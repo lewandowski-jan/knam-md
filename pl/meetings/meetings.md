@@ -1,3 +1,33 @@
+# Makiety, prototypy i AI (12.06.2024)
+
+Na spotkaniu przejrzeliśmy różne funkcje dostępne w Figmie - od tworzenia makiet po prototypowanie. Następnie odbyliśmy dyskusję na temat pracy programisty w dobie sztucznej inteligencji.
+
+## Prowadzący
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Generowanie kodu w Darcie (22.05.2024)
+
+Podczas spotkania omówiliśmy temat generowania kodu w Darcie. Janek zademonstrował również przykłady, jak generować kod dla modeli danych i innych struktur, aby przyspieszyć proces developmentu.
+
+## Prowadzący
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Wariancja typów i podstawy obiektowe (24.04.2024)
+
+Podczas spotkania omówiliśmy wariancję typów, w tym kowariancję i kontrawariancję, oraz ich znaczenie w programowaniu. Poruszyliśmy również podstawy programowania obiektowego, skupiając się na klasach, obiektach, dziedziczeniu i polimorfizmie.
+
+## Prowadzący
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Testy jednostkowe (20.03.2024)
 
 Na spotkaniu przejrzeliśmy poprawione wersje CV a nastepnie Janek pokazał jak pisać we Flutterze testy jednostkowe na przykładzie aplikacji pogodowej i paczki flutter test.

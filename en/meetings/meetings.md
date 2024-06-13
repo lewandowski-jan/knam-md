@@ -1,3 +1,31 @@
+# Mockups, prototypes and AI in programming (June 12, 2024)
+During the meeting, we reviewed various features available in Figma - from creating mockups to prototyping. Then we had a discussion about the work of a programmer in the era of artificial intelligence.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Code generation in Dart (May 22, 2024)
+
+During the meeting, we discussed the topic of code generation in Dart. Janek also demonstrated examples of how to generate code for data models and other structures to speed up the development process.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
+# Variance of Types and Object Basics (April 24, 2024)
+During the meeting, we discussed type variance, including covariance and contravariance, and their significance in programming. We also covered the fundamentals of object-oriented programming, focusing on classes, objects, inheritance, and polymorphism.
+
+## Presenters
+- Jan Lewandowski
+- Oskar Zając
+
+<<BREAK>>
+
 # Unit Testing (March 20, 2024)
 
 During the meeting, we reviewed the improved versions of CVs, and then Janek showed how to write unit tests in Flutter using the example of a weather application and the flutter test package.
